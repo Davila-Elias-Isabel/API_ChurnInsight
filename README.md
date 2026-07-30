@@ -321,7 +321,7 @@ En **Análisis Avanzado** existe el botón **Exportar a PDF**:
 - **Aldo Sánchez** - Backend Developer
 - **Kenny Solórzano** - Backend Developer
 - **Leslie Rodriguez** - Data Engineer
-- **Rocio Davila** - Data Scientist
+- **Rocio Isabel Davila** - Data Scientist
 - **Elizabeth Garces** - Data Scientist
 
 <hr/>
